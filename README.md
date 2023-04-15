@@ -18,9 +18,10 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
+### GITHUB REPOSITORY LINK :
+### https://github.com/MoumitaMurmu/SignUp-Form
 
-
-### Deployment link:
+###  DEPLOYED LINK :
 ###  https://sign-up-form-using-react.netlify.app/
 
 
