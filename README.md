@@ -1,4 +1,6 @@
 # It's a basic signup form using React.js with email, name, password and confirm password fields.
+# Use state management to handle these form fields and validate the form on submission. 
+# Display appropriate errors if the form fields are not filled correctly.
 
 
 In the project directory, you can run:
@@ -18,7 +20,8 @@ Your app is ready to be deployed!
 
 
 
-### Deployment
+### Deployment link:
+###  https://sign-up-form-using-react.netlify.app/
 
 
 
