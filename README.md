@@ -22,7 +22,7 @@ Your app is ready to be deployed!
 ### https://github.com/MoumitaMurmu/SignUp-Form
 
 ###  DEPLOYED LINK :
-###  https://sign-up-form-using-react.netlify.app/
+###  https://signup-form-using-react.netlify.app/
 
 
 
